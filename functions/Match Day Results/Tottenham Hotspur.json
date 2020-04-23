@@ -1,0 +1,1136 @@
+{
+  "0": {
+    "HomeTeam": "RB Leipzig",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "1": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "2": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Norwich City",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "3": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "4": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "5": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "RB Leipzig",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "6": {
+    "HomeTeam": "Aston Villa",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "7": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "8": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "9": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "10": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Norwich City",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "11": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "12": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Middlesbrough FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "13": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "14": {
+    "HomeTeam": "Middlesbrough FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "15": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "16": {
+    "HomeTeam": "Norwich City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "17": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "18": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "19": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "20": {
+    "HomeTeam": "FC Bayern München",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "21": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "22": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "23": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "24": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Olympiakos Piraeus",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "25": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "26": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Sheffield United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "27": {
+    "HomeTeam": "Crvena Zvezda Belgrade",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "28": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "29": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "30": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Crvena Zvezda Belgrade",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "31": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "32": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "33": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "FC Bayern München",
+    "HomeScore": 2,
+    "AwayScore": 7,
+    "Result": "Loss"
+  },
+  "34": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "35": {
+    "HomeTeam": "Colchester United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "36": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "37": {
+    "HomeTeam": "Olympiakos Piraeus",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "38": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "39": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "40": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "41": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "42": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Aston Villa",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "43": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Liverpool FC*",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "44": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "45": {
+    "HomeTeam": "Ajax Amsterdam",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "46": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "47": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Ajax Amsterdam",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "48": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "49": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "50": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "51": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 4,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "52": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "53": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "54": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "55": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "56": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "57": {
+    "HomeTeam": "Borussia Dortmund",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "58": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "59": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "60": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "61": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Borussia Dortmund",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "62": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "63": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "64": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "65": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "66": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "67": {
+    "HomeTeam": "Fulham FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "68": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "69": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "70": {
+    "HomeTeam": "Tranmere Rovers",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 7,
+    "Result": "Win"
+  },
+  "71": {
+    "HomeTeam": "Cardiff City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "72": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "73": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "74": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 6,
+    "Result": "Win"
+  },
+  "75": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "76": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "77": {
+    "HomeTeam": "FC Barcelona",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "78": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "79": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "80": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "81": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Inter Milan",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "82": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "83": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "84": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "PSV Eindhoven",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "85": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "86": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "87": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "88": {
+    "HomeTeam": "PSV Eindhoven",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "89": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "90": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Cardiff City",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "91": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "FC Barcelona",
+    "HomeScore": 2,
+    "AwayScore": 4,
+    "Result": "Loss"
+  },
+  "92": {
+    "HomeTeam": "Huddersfield Town",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "93": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "94": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "95": {
+    "HomeTeam": "Inter Milan",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "96": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "97": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "98": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "99": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Fulham FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "100": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "101": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 5,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "102": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "103": {
+    "HomeTeam": "West Bromwich Albion",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "104": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "105": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "106": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "107": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "108": {
+    "HomeTeam": "Stoke City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "109": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "110": {
+    "HomeTeam": "Swansea City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "111": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "112": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Juventus Torino",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "113": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "114": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Rochdale AFC",
+    "HomeScore": 6,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "115": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "116": {
+    "HomeTeam": "Rochdale AFC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "117": {
+    "HomeTeam": "Juventus Torino",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "118": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "119": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Newport County AFC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "120": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "121": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "122": {
+    "HomeTeam": "Newport County AFC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "123": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "124": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "125": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "AFC Wimbledon",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "126": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "127": {
+    "HomeTeam": "Swansea City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "128": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 5,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "129": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "130": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "131": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "132": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Stoke City",
+    "HomeScore": 5,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "133": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Apoel Nikosia",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "134": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "135": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "136": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "West Bromwich Albion",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "137": {
+    "HomeTeam": "Borussia Dortmund",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "138": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "139": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "140": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Real Madrid",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "141": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "142": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "143": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "144": {
+    "HomeTeam": "Real Madrid",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "145": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "146": {
+    "HomeTeam": "Huddersfield Town",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "147": {
+    "HomeTeam": "Apoel Nikosia",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "148": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "149": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Barnsley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "150": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Swansea City",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "151": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Borussia Dortmund",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "152": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "153": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "154": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "155": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "156": {
+    "HomeTeam": "Hull City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 7,
+    "Result": "Win"
+  },
+  "157": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 6,
+    "Result": "Win"
+  },
+  "158": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "159": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "160": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "161": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  }
+}

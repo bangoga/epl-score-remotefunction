@@ -1,0 +1,919 @@
+{
+  "0": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "1": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "2": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "3": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "4": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "5": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "6": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "7": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "8": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "9": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "10": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "11": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "12": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "13": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "14": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "15": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "16": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 5,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "17": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "18": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Norwich City",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "19": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "20": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "21": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "22": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "23": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "24": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "25": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "26": {
+    "HomeTeam": "Sheffield Wednesday",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "27": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Sheffield United",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "28": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "29": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "30": {
+    "HomeTeam": "Lincoln City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "31": {
+    "HomeTeam": "Aston Villa",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "32": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "33": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "34": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "35": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "36": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "37": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "38": {
+    "HomeTeam": "Fulham FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "39": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "40": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "41": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "42": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "43": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "44": {
+    "HomeTeam": "Cardiff City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "45": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "46": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "47": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "48": {
+    "HomeTeam": "Huddersfield Town",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "49": {
+    "HomeTeam": "Millwall FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "50": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "51": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "52": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Lincoln City",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "53": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "54": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "55": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 5,
+    "Result": "Win"
+  },
+  "56": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 6,
+    "Result": "Loss"
+  },
+  "57": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "58": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "59": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "60": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "61": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Cardiff City",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "62": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "63": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "64": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "65": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "66": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "67": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "68": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Fulham FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "69": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "70": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "71": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "72": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Rotherham United",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "73": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "74": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "75": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "76": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "77": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "78": {
+    "HomeTeam": "Huddersfield Town",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "79": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "80": {
+    "HomeTeam": "Swansea City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "81": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "82": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "83": {
+    "HomeTeam": "Stoke City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "84": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "85": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "86": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "87": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "88": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 5,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "89": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "90": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "West Bromwich Albion",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "91": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "92": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "93": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "94": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "95": {
+    "HomeTeam": "West Bromwich Albion",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "96": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "97": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Swansea City",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "98": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "99": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "100": {
+    "HomeTeam": "Apollon Limassol",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "101": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "102": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "103": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "104": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Atalanta Bergamo",
+    "HomeScore": 1,
+    "AwayScore": 5,
+    "Result": "Loss"
+  },
+  "105": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "106": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "107": {
+    "HomeTeam": "Olympique Lyon",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "108": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "109": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "110": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 5,
+    "Result": "Loss"
+  },
+  "111": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Olympique Lyon",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "112": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "113": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "114": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Apollon Limassol",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "115": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "116": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Sunderland FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "117": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "118": {
+    "HomeTeam": "Atalanta Bergamo",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "119": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "120": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "121": {
+    "HomeTeam": "HNK Hajduk Split",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "122": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "123": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "HNK Hajduk Split",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "124": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Stoke City",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "125": {
+    "HomeTeam": "MFK Ruzomberok",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "126": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "MFK Ruzomberok",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "127": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "128": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "129": {
+    "HomeTeam": "Swansea City",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "130": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Loss"
+  }
+}

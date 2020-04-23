@@ -1,0 +1,1045 @@
+{
+  "0": {
+    "HomeTeam": "Olympiakos Piraeus",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "1": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "2": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "3": {
+    "HomeTeam": "Espanyol Barcelona",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "4": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Norwich City",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "5": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Espanyol Barcelona",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "6": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "7": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "8": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "9": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "10": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "11": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "12": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "13": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "14": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "15": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "16": {
+    "HomeTeam": "Norwich City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "17": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "18": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Besiktas",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "19": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "20": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "21": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Sheffield United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "22": {
+    "HomeTeam": "Sporting Braga",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 3,
+    "AwayScore": 3,
+    "Result": "Draw"
+  },
+  "23": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "24": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Aston Villa",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "25": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Slovan Bratislava",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "26": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "27": {
+    "HomeTeam": "Aston Villa",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "28": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "29": {
+    "HomeTeam": "Slovan Bratislava",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "30": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "31": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "32": {
+    "HomeTeam": "Besiktas",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "33": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "34": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Reading FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "35": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "36": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Sporting Braga",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "37": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 2,
+    "AwayScore": 5,
+    "Result": "Loss"
+  },
+  "38": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "39": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Torino AC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "40": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "41": {
+    "HomeTeam": "Torino AC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "42": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "43": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Pyunik Yerevan",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "44": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "45": {
+    "HomeTeam": "Pyunik Yerevan",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "46": {
+    "HomeTeam": "Crusaders FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "47": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Crusaders FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "48": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "49": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Fulham FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "50": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "51": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "52": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "53": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "54": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "55": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "56": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "57": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "58": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "59": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Cardiff City",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "60": {
+    "HomeTeam": "Huddersfield Town",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "61": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "62": {
+    "HomeTeam": "Bristol City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "63": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "64": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Shrewsbury Town",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "65": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "66": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "67": {
+    "HomeTeam": "Shrewsbury Town",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "68": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 4,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "69": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "70": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "71": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "72": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "73": {
+    "HomeTeam": "Fulham FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "74": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "75": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "76": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "77": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "78": {
+    "HomeTeam": "Cardiff City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "79": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "80": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "81": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "82": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "83": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "84": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "85": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "86": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "87": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "88": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "89": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "90": {
+    "HomeTeam": "Sheffield Wednesday",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "91": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "92": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "93": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "94": {
+    "HomeTeam": "Sunderland FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "95": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Sheffield Wednesday",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "96": {
+    "HomeTeam": "Bolton Wanderers",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "97": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Birmingham City",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "98": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Derby County",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "99": {
+    "HomeTeam": "Cardiff City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "100": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Hull City",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "101": {
+    "HomeTeam": "Middlesbrough FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "102": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Burton Albion",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "103": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Reading FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "104": {
+    "HomeTeam": "Aston Villa",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "105": {
+    "HomeTeam": "Leeds United",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "106": {
+    "HomeTeam": "Fulham FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "107": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Norwich City",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "108": {
+    "HomeTeam": "Preston North End",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "109": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Queens Park Rangers",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "110": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Sheffield United",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "111": {
+    "HomeTeam": "Ipswich Town",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "112": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Nottingham Forest",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "113": {
+    "HomeTeam": "Swansea City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "114": {
+    "HomeTeam": "Barnsley FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "115": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Swansea City",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "116": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Brentford FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "117": {
+    "HomeTeam": "Bristol City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "118": {
+    "HomeTeam": "Millwall FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "119": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Ipswich Town",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "120": {
+    "HomeTeam": "Sheffield Wednesday",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "121": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Sunderland FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "122": {
+    "HomeTeam": "Birmingham City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "123": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Bolton Wanderers",
+    "HomeScore": 5,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "124": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Leeds United",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "125": {
+    "HomeTeam": "Reading FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "126": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Fulham FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "127": {
+    "HomeTeam": "Norwich City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "128": {
+    "HomeTeam": "Queens Park Rangers",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "129": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "130": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Preston North End",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "131": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Aston Villa",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "132": {
+    "HomeTeam": "Burton Albion",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "133": {
+    "HomeTeam": "Sheffield United",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "134": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Barnsley FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "135": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Bristol Rovers",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "136": {
+    "HomeTeam": "Nottingham Forest",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "137": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Bristol City",
+    "HomeScore": 3,
+    "AwayScore": 3,
+    "Result": "Draw"
+  },
+  "138": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Millwall FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "139": {
+    "HomeTeam": "Brentford FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "140": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "141": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Cardiff City",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "142": {
+    "HomeTeam": "Hull City",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "143": {
+    "HomeTeam": "Derby County",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "144": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Yeovil Town FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "145": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Middlesbrough FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "146": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Preston North End",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "147": {
+    "HomeTeam": "Derby County",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "148": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  }
+}

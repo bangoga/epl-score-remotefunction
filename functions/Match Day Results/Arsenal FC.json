@@ -1,0 +1,1164 @@
+{
+  "0": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "1": {
+    "HomeTeam": "Portsmouth FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "2": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Olympiakos Piraeus",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "3": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "4": {
+    "HomeTeam": "Olympiakos Piraeus",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "5": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "6": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "7": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "8": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "9": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Sheffield United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "10": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "11": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Leeds United",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "12": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "13": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "14": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "15": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "16": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "17": {
+    "HomeTeam": "Standard Liege",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "18": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "19": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "20": {
+    "HomeTeam": "Norwich City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "21": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Eintracht Frankfurt",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "22": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "23": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "24": {
+    "HomeTeam": "Vitoria Guimaraes",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "25": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "26": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 5,
+    "AwayScore": 5,
+    "Result": "Draw"
+  },
+  "27": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "28": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Vitoria Guimaraes",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "29": {
+    "HomeTeam": "Sheffield United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "30": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "31": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Standard Liege",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "32": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "33": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Nottingham Forest",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "34": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Aston Villa",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "35": {
+    "HomeTeam": "Eintracht Frankfurt",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "36": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "37": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "38": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "39": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "40": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "41": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Arsenal FC*",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": ""
+  },
+  "42": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "43": {
+    "HomeTeam": "FC Valencia",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "44": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "45": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "FC Valencia",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "46": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "47": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "48": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "49": {
+    "HomeTeam": "SSC Napoli",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "50": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "51": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "SSC Napoli",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "52": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "53": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "54": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Stade Rennes",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "55": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "56": {
+    "HomeTeam": "Stade Rennes",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "57": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "58": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 5,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "59": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "60": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "BATE Borisov",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "61": {
+    "HomeTeam": "BATE Borisov",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "62": {
+    "HomeTeam": "Huddersfield Town",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "63": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "64": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Cardiff City",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "65": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "66": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "67": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "68": {
+    "HomeTeam": "Blackpool FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "69": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Fulham FC",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "70": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 5,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "71": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "72": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "73": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "74": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "75": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "FK Karabakh Agdam",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "76": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "77": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "78": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "79": {
+    "HomeTeam": "Vorskla Poltava",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "80": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "81": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "82": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Sporting Lisboa",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "83": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "84": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Blackpool FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "85": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "86": {
+    "HomeTeam": "Sporting Lisboa",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "87": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "88": {
+    "HomeTeam": "Fulham FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 5,
+    "Result": "Win"
+  },
+  "89": {
+    "HomeTeam": "FK Karabakh Agdam",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "90": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "91": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Brentford FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "92": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "93": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Vorskla Poltava",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "94": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "95": {
+    "HomeTeam": "Cardiff City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "96": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "97": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "98": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "99": {
+    "HomeTeam": "Huddersfield Town",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "100": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "101": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "102": {
+    "HomeTeam": "Atletico Madrid",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "103": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "104": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Atletico Madrid",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "105": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "106": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "107": {
+    "HomeTeam": "CSKA Moskva",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "108": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "109": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "CSKA Moskva",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "110": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Stoke City",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "111": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "AC Milan",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "112": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "113": {
+    "HomeTeam": "AC Milan",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "114": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "115": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "116": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "117": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Östersunds FK",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "118": {
+    "HomeTeam": "Östersunds FK",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "119": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "120": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 5,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "121": {
+    "HomeTeam": "Swansea City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "122": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "123": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "124": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "125": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "126": {
+    "HomeTeam": "Nottingham Forest",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "127": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "128": {
+    "HomeTeam": "West Bromwich Albion",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "129": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "130": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 3,
+    "AwayScore": 3,
+    "Result": "Draw"
+  },
+  "131": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "132": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "133": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "134": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "135": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "BATE Borisov",
+    "HomeScore": 6,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "136": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "137": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "138": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "139": {
+    "HomeTeam": "1. FC Köln",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "140": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "141": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "142": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Crvena Zvezda Belgrade",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "143": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Swansea City",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "144": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Norwich City",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "145": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 5,
+    "Result": "Win"
+  },
+  "146": {
+    "HomeTeam": "Crvena Zvezda Belgrade",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "147": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "148": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "149": {
+    "HomeTeam": "BATE Borisov",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "150": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "West Bromwich Albion",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "151": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Doncaster Rovers",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "152": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "153": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "1. FC Köln",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "154": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "155": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "156": {
+    "HomeTeam": "Stoke City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "157": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 4,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "158": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "159": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "160": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Sunderland FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "161": {
+    "HomeTeam": "Stoke City",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 4,
+    "Result": "Win"
+  },
+  "162": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "163": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "164": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "165": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  }
+}

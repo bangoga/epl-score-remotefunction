@@ -1,0 +1,870 @@
+{
+  "0": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "1": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "2": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "3": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "4": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "5": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Norwich City",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "6": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "7": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "8": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "9": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Peterborough United",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "10": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Aston Villa",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "11": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "12": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "13": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "14": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "15": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "16": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 1,
+    "AwayScore": 4,
+    "Result": "Loss"
+  },
+  "17": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "18": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "19": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "20": {
+    "HomeTeam": "Sheffield United",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "21": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 2,
+    "AwayScore": 4,
+    "Result": "Loss"
+  },
+  "22": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "23": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "24": {
+    "HomeTeam": "Aston Villa",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "25": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Norwich City",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "26": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "27": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "28": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Sunderland FC",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "29": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "30": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "31": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "32": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "33": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "34": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "35": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "36": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Cardiff City",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "37": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "38": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "39": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "40": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "41": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "42": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "43": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "44": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "45": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "46": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "47": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "48": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "49": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Fulham FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "50": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Barnsley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "51": {
+    "HomeTeam": "Huddersfield Town",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "52": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "53": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 1,
+    "AwayScore": 5,
+    "Result": "Loss"
+  },
+  "54": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "55": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "56": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "57": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "58": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "59": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "60": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "61": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "62": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 0,
+    "AwayScore": 4,
+    "Result": "Loss"
+  },
+  "63": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "64": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "65": {
+    "HomeTeam": "Cardiff City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "66": {
+    "HomeTeam": "Burton Albion",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "67": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "68": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "69": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "70": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Olympiakos Piraeus",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "71": {
+    "HomeTeam": "Fulham FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "72": {
+    "HomeTeam": "Olympiakos Piraeus",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "73": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "74": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Istanbul Basaksehir FK",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "75": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "76": {
+    "HomeTeam": "Istanbul Basaksehir FK",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "77": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "FC Aberdeen",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "78": {
+    "HomeTeam": "FC Aberdeen",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "79": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "80": {
+    "HomeTeam": "Arsenal FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "81": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "82": {
+    "HomeTeam": "Stoke City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "83": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "84": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Leicester City",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "85": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "86": {
+    "HomeTeam": "West Bromwich Albion",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "87": {
+    "HomeTeam": "West Ham United",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "88": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "89": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Southampton FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "90": {
+    "HomeTeam": "Swansea City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "91": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Manchester City",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "92": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "93": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "94": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "95": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "96": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "97": {
+    "HomeTeam": "Huddersfield Town",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "98": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "99": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Loss"
+  },
+  "100": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "101": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Stoke City",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "102": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "103": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "104": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "105": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "106": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Swansea City",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "107": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "108": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Newcastle United",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "109": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss"
+  },
+  "110": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "111": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Win"
+  },
+  "112": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Huddersfield Town",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw"
+  },
+  "113": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Leeds United",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "114": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "115": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Win"
+  },
+  "116": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw"
+  },
+  "117": {
+    "HomeTeam": "Blackburn Rovers",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  },
+  "118": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "West Bromwich Albion",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "119": {
+    "HomeTeam": "Chelsea FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Win"
+  },
+  "120": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss"
+  },
+  "121": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss"
+  },
+  "122": {
+    "HomeTeam": "Burnley FC",
+    "AwayTeam": "West Bromwich Albion",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw"
+  },
+  "123": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win"
+  }
+}
