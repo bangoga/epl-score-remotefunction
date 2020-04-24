@@ -4,1168 +4,1335 @@
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "1": {
     "HomeTeam": "Sheffield Wednesday",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "2": {
     "HomeTeam": "Aston Villa",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "3": {
     "HomeTeam": "Real Madrid",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "4": {
     "HomeTeam": "Leicester City",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "5": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "West Ham United",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "6": {
     "HomeTeam": "Tottenham Hotspur",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "7": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Manchester United",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UKLCUP"
   },
   "8": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Fulham FC",
     "HomeScore": 4,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "9": {
     "HomeTeam": "Sheffield United",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "10": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Crystal Palace",
     "HomeScore": 2,
     "AwayScore": 2,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "11": {
     "HomeTeam": "Aston Villa",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 6,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "12": {
     "HomeTeam": "Manchester United",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "13": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Port Vale",
     "HomeScore": 4,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "14": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Everton FC",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "15": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Sheffield United",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "16": {
     "HomeTeam": "Wolverhampton Wanderers",
     "AwayTeam": "Manchester City",
     "HomeScore": 3,
     "AwayScore": 2,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "17": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Leicester City",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "18": {
     "HomeTeam": "Oxford United",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "19": {
     "HomeTeam": "Arsenal FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "20": {
     "HomeTeam": "Dinamo Zagreb",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "21": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Manchester United",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "22": {
     "HomeTeam": "Burnley FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "23": {
     "HomeTeam": "Newcastle United",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 2,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "24": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Shakhtar Donezk",
     "HomeScore": 1,
     "AwayScore": 1,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "CLCUP"
   },
   "25": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Chelsea FC",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "26": {
     "HomeTeam": "Liverpool FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "27": {
     "HomeTeam": "Atalanta Bergamo",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 1,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "CLCUP"
   },
   "28": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Southampton FC",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "29": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Southampton FC",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "30": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Aston Villa",
     "HomeScore": 3,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "31": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Atalanta Bergamo",
     "HomeScore": 5,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "32": {
     "HomeTeam": "Crystal Palace",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "33": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Wolverhampton Wanderers",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "34": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Dinamo Zagreb",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "35": {
     "HomeTeam": "Everton FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "36": {
     "HomeTeam": "Preston North End",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "37": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Watford FC",
     "HomeScore": 8,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "38": {
     "HomeTeam": "Shakhtar Donezk",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "39": {
     "HomeTeam": "Norwich City",
     "AwayTeam": "Manchester City",
     "HomeScore": 3,
     "AwayScore": 2,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "40": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Brighton & Hove Albion",
     "HomeScore": 4,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "41": {
     "HomeTeam": "AFC Bournemouth",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "42": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Tottenham Hotspur",
     "HomeScore": 2,
     "AwayScore": 2,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "43": {
     "HomeTeam": "West Ham United",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 5,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "44": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Watford FC",
     "HomeScore": 6,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "45": {
     "HomeTeam": "Brighton & Hove Albion",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "46": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Leicester City",
     "HomeScore": 1,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "47": {
     "HomeTeam": "Burnley FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "48": {
     "HomeTeam": "Manchester United",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "49": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Tottenham Hotspur",
     "HomeScore": 1,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "50": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Tottenham Hotspur",
     "HomeScore": 4,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "51": {
     "HomeTeam": "Crystal Palace",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "52": {
     "HomeTeam": "Tottenham Hotspur",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 0,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "CLCUP"
   },
   "53": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Brighton & Hove Albion",
     "HomeScore": 1,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "54": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Cardiff City",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "55": {
     "HomeTeam": "Fulham FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "56": {
     "HomeTeam": "Swansea City",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "57": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "FC Schalke 04",
     "HomeScore": 7,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "58": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Watford FC",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "59": {
     "HomeTeam": "AFC Bournemouth",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "60": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "West Ham United",
     "HomeScore": 1,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "61": {
     "HomeTeam": "Chelsea FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 0,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UKLCUP"
   },
   "62": {
     "HomeTeam": "FC Schalke 04",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "63": {
     "HomeTeam": "Newport County AFC",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "64": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Chelsea FC",
     "HomeScore": 6,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "65": {
     "HomeTeam": "Everton FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "66": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Arsenal FC",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "67": {
     "HomeTeam": "Newcastle United",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "68": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Burnley FC",
     "HomeScore": 5,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "69": {
     "HomeTeam": "Burton Albion",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "70": {
     "HomeTeam": "Huddersfield Town",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "71": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Wolverhampton Wanderers",
     "HomeScore": 3,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "72": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Burton Albion",
     "HomeScore": 9,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "73": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Rotherham United",
     "HomeScore": 7,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "74": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Liverpool FC",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "75": {
     "HomeTeam": "Southampton FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "76": {
     "HomeTeam": "Leicester City",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "77": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Crystal Palace",
     "HomeScore": 2,
     "AwayScore": 3,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "78": {
     "HomeTeam": "Leicester City",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 1,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UKLCUP"
   },
   "79": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Everton FC",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "80": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "1899 Hoffenheim",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "81": {
     "HomeTeam": "Chelsea FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "82": {
     "HomeTeam": "Watford FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "83": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "AFC Bournemouth",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "84": {
     "HomeTeam": "Olympique Lyon",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 2,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "CLCUP"
   },
   "85": {
     "HomeTeam": "West Ham United",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "86": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Manchester United",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "87": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Shakhtar Donezk",
     "HomeScore": 6,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "88": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Southampton FC",
     "HomeScore": 6,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "89": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Fulham FC",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "90": {
     "HomeTeam": "Tottenham Hotspur",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "91": {
     "HomeTeam": "Shakhtar Donezk",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "92": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Burnley FC",
     "HomeScore": 5,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "93": {
     "HomeTeam": "Liverpool FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 0,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "94": {
     "HomeTeam": "1899 Hoffenheim",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "95": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Brighton & Hove Albion",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "96": {
     "HomeTeam": "Oxford United",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "97": {
     "HomeTeam": "Cardiff City",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 5,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "98": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Olympique Lyon",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "CLCUP"
   },
   "99": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Fulham FC",
     "HomeScore": 3,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "100": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Newcastle United",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "101": {
     "HomeTeam": "Wolverhampton Wanderers",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 1,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "102": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Huddersfield Town",
     "HomeScore": 6,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "103": {
     "HomeTeam": "Arsenal FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "104": {
     "HomeTeam": "Southampton FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "105": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Brighton & Hove Albion",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "106": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Huddersfield Town",
     "HomeScore": 0,
     "AwayScore": 0,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "107": {
     "HomeTeam": "West Ham United",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "108": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Swansea City",
     "HomeScore": 5,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "109": {
     "HomeTeam": "Tottenham Hotspur",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "110": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Liverpool FC",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "CLCUP"
   },
   "111": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Manchester United",
     "HomeScore": 2,
     "AwayScore": 3,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "112": {
     "HomeTeam": "Liverpool FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 3,
     "AwayScore": 0,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "CLCUP"
   },
   "113": {
     "HomeTeam": "Everton FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "114": {
     "HomeTeam": "Stoke City",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "115": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "FC Basel",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "CLCUP"
   },
   "116": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Chelsea FC",
     "HomeScore": 1,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "117": {
     "HomeTeam": "Arsenal FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "118": {
     "HomeTeam": "Arsenal FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "119": {
     "HomeTeam": "Wigan Athletic",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 0,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UKFACUP"
   },
   "120": {
     "HomeTeam": "FC Basel",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "121": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Leicester City",
     "HomeScore": 5,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "122": {
     "HomeTeam": "Burnley FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 1,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "123": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "West Bromwich Albion",
     "HomeScore": 3,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "124": {
     "HomeTeam": "Cardiff City",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "125": {
     "HomeTeam": "Bristol City",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "126": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Newcastle United",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "127": {
     "HomeTeam": "Liverpool FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 4,
     "AwayScore": 3,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "UK1"
   },
   "128": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Bristol City",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "129": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Burnley FC",
     "HomeScore": 4,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKFACUP"
   },
   "130": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Watford FC",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "131": {
     "HomeTeam": "Crystal Palace",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 0,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "132": {
     "HomeTeam": "Newcastle United",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "133": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "AFC Bournemouth",
     "HomeScore": 4,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "134": {
     "HomeTeam": "Leicester City",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 1,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UKLCUP"
   },
   "135": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Tottenham Hotspur",
     "HomeScore": 4,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "136": {
     "HomeTeam": "Swansea City",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "137": {
     "HomeTeam": "Manchester United",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "138": {
     "HomeTeam": "Shakhtar Donezk",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Loss"
+    "Result": "Loss",
+    "match": "CLCUP"
   },
   "139": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "West Ham United",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "140": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Southampton FC",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "141": {
     "HomeTeam": "Huddersfield Town",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "142": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Feyenoord Rotterdam",
     "HomeScore": 1,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "143": {
     "HomeTeam": "Leicester City",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "144": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Arsenal FC",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "145": {
     "HomeTeam": "SSC Napoli",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "146": {
     "HomeTeam": "West Bromwich Albion",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 3,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "147": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Wolverhampton Wanderers",
     "HomeScore": 0,
     "AwayScore": 0,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UKLCUP"
   },
   "148": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Burnley FC",
     "HomeScore": 3,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "149": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "SSC Napoli",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "150": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Stoke City",
     "HomeScore": 7,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "151": {
     "HomeTeam": "Chelsea FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "152": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Shakhtar Donezk",
     "HomeScore": 2,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "153": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Crystal Palace",
     "HomeScore": 5,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "154": {
     "HomeTeam": "West Bromwich Albion",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UKLCUP"
   },
   "155": {
     "HomeTeam": "Watford FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 6,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "156": {
     "HomeTeam": "Feyenoord Rotterdam",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 4,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "CLCUP"
   },
   "157": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Liverpool FC",
     "HomeScore": 5,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "158": {
     "HomeTeam": "AFC Bournemouth",
     "AwayTeam": "Manchester City",
     "HomeScore": 1,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "159": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Everton FC",
     "HomeScore": 1,
     "AwayScore": 1,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "160": {
     "HomeTeam": "Brighton & Hove Albion",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 2,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "161": {
     "HomeTeam": "Watford FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 0,
     "AwayScore": 5,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "162": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "West Bromwich Albion",
     "HomeScore": 3,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "163": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Leicester City",
     "HomeScore": 2,
     "AwayScore": 1,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "164": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Crystal Palace",
     "HomeScore": 5,
     "AwayScore": 0,
-    "Result": "Win"
+    "Result": "Win",
+    "match": "UK1"
   },
   "165": {
     "HomeTeam": "Middlesbrough FC",
     "AwayTeam": "Manchester City",
     "HomeScore": 2,
     "AwayScore": 2,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   },
   "166": {
     "HomeTeam": "Manchester City",
     "AwayTeam": "Manchester United",
     "HomeScore": 0,
     "AwayScore": 0,
-    "Result": "Draw"
+    "Result": "Draw",
+    "match": "UK1"
   }
 }

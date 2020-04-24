@@ -18,10 +18,18 @@ exports.helloWorld = functions.https.onRequest((request, response) => {
 
 
 
-// By using exports, you are sending a function back
-exports.addMessage = functions.https.onRequest((request, response) => {
+// Cloud function that 
+exports.convertToCsv = functions.https.onRequest((request, response) => {
     response.send("ahh shiit");
     
+    var folder = "./Match Day Results/"
+    fs.readdir(Folder, (err, files) => {
+      files.forEach(file => {
+        console.log(file);
+      });
+    });
+
+
   });
 
 
@@ -87,8 +95,8 @@ const runHeadless = async (url,response) => {
       return links;
     }).catch(err => {return err});
 
-    console.log("current data", data);
-
+    //console.log("current data", data);
+    console.log("Starting data scraping...");
     // go to the first page
 
     for(var x = 0;x<20;x++){
@@ -102,7 +110,8 @@ const runHeadless = async (url,response) => {
 
       const content = await page.evaluate( () => {
         const matchList = document.querySelectorAll('body > div.wrap > div:nth-child(7) > table.bigtable > tbody > tr:nth-child(n+2) > td:nth-child(3)'+ // selecting from n+2 to make sure only matchs in
-        ',body > div.wrap > div:nth-child(7) > table.bigtable > tbody > tr > td:nth-child(11)'
+        ',body > div.wrap > div:nth-child(7) > table.bigtable > tbody > tr:nth-child(n+2) > td:nth-child(11)'+
+        ',body > div.wrap > div:nth-child(7) > table.bigtable > tbody > tr:nth-child(n+2) > td:nth-child(8)'
         );   
 
         const teamDom = document.querySelectorAll('body > div.wrap > div:nth-child(7) > table.bigtable > tbody > tr:nth-child(1) > td:nth-child(3) > font > b');   
@@ -119,36 +128,41 @@ const runHeadless = async (url,response) => {
       var results = refineData(content[0],content[1]);
       createJson(results,content[1]);
   }
+  response.send("Finished");
 }
 
 // Refines the data and creates and object for each match day, with each match being an object with away,home, scores of away/home, result.
 function refineData(arr,teamName){
   matchScore=[];
   matchName=[];
-  for (var i=0;i<arr.length;i=i+2){
+  matchType=[];
+  for (var i=0;i<arr.length;i=i+3){
     //console.log(arr[i]);
     matchName.push(arr[i]);
   }
 
-  for (var i=1;i<arr.length;i=i+2){
+  for (var i=2;i<arr.length;i=i+3){
     //console.log(arr[i]);
     matchScore.push(arr[i]);
   }
 
-
+  for (var i=1;i<arr.length;i=i+3){
+    //console.log(arr[i]);
+    matchType.push(arr[i]);
+  }
 
   // Figure out if home or away match.
   var matches={};
   for (var i=0;i<matchName.length;i=i+1){
-    matches[i]= awaySplitResult(matchName[i],matchScore[i],teamName);
+    matches[i]= awaySplitResult(matchName[i],matchScore[i],teamName,matchType[i]);
   }
 
-  console.log(matches);
+  console.log(teamName);
   return matches;
 }
 
 // Helper function, takes a fixture, using the - split to figure out the away team, takes score and home team to see if win/loss/draw,
-function awaySplitResult(fixture,score,team){
+function awaySplitResult(fixture,score,team,matchType){
   var teams       =  fixture.split(" - ");
   var homeTeam    = teams[0];
   var awayTeam    = teams[1];
@@ -185,7 +199,8 @@ function awaySplitResult(fixture,score,team){
     AwayTeam:awayTeam,
     HomeScore:homeResult,
     AwayScore:awayResult,
-    Result:outcome
+    Result:outcome,
+    match:matchType
   }
 
   return match;
