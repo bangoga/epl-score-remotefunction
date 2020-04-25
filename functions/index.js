@@ -23,9 +23,10 @@ exports.convertToCsv = functions.https.onRequest((request, response) => {
     response.send("ahh shiit");
     
     var folder = "./Match Day Results/"
-    fs.readdir(Folder, (err, files) => {
+    fs.readdir(folder, (err, files) => {
       files.forEach(file => {
-        console.log(file);
+        readData(file,folder);
+        // Run function.
       });
     });
 
@@ -215,4 +216,23 @@ function createJson(matches_obj,team){
       if (err) throw err;
       console.log('Data written to file');
   });
+}
+
+
+function readData(file,folder){
+  file=folder+""+file;
+  let rawdata = fs.readFileSync(file);
+
+
+  let data = JSON.parse(rawdata);
+
+  // --- [ Function maping top iterate through all UK1 PL matches]--------// 
+
+  Object.keys(data).forEach(match=>{
+    if(data[match].match=="UK1"){
+      console.log(data[match]);
+    }
+  }
+  );
+
 }
