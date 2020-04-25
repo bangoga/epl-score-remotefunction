@@ -25,8 +25,13 @@ exports.convertToCsv = functions.https.onRequest((request, response) => {
     var folder = "./Match Day Results/"
     fs.readdir(folder, (err, files) => {
       files.forEach(file => {
+        try{
         readData(file,folder);
         // Run function.
+        }
+        catch(err){
+          console.log("file was corrupt",file);
+        }
       });
     });
 
@@ -220,6 +225,7 @@ function createJson(matches_obj,team){
 
 
 function readData(file,folder){
+  var team = file;
   file=folder+""+file;
   let rawdata = fs.readFileSync(file);
 
@@ -227,12 +233,20 @@ function readData(file,folder){
   let data = JSON.parse(rawdata);
 
   // --- [ Function maping top iterate through all UK1 PL matches]--------// 
+  // --  [ get last 29 games]
+  console.log("-------------------Current File-------------",file);
 
+  epl_match={}
+  var match_no = 1
   Object.keys(data).forEach(match=>{
-    if(data[match].match=="UK1"){
+    if(data[match].match=="UK1" && match_no<=29){
       console.log(data[match]);
+      epl_match[match_no]=data[match];
+      match_no++;
     }
   }
   );
 
+  var new_folder = "Premier League 2019/"+team;
+  createJson(epl_match,new_folder);
 }
