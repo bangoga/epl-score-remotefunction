@@ -1,5 +1,6 @@
 # EPL-Score-RemoteFunction
-A webpage with implementations of sorting algorithm shown visually using svg animated graphs. The goal is to show results of sorting algorithms a long side each marked step of its concuring algorithm, with the final panel showing the runtime of graphed on the given data overlayed by best and worst case runtime. 
+Part of a larger collection of a solution made for the stats, analysis and predictions for the Premier league season 2019-2020. 
+This is chunk of code is used for remote functions, that internally collect and arrange the data of 20 premier league teams internally and externally provide remote functions to allow fast return of this data that can be used by any REST web app. The data returned is in form of JSON. 
 
 ## Getting Started
 
@@ -7,15 +8,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Prerequisites
-Modern Web Browswer
+REST web app with hosted on a server that can call remote functions from the firebase host. For the end users, they would also need to be experienced with noSQL data handling.   
 
 ## Examples
 
 ## Structure 
 
 ## Limitations
+Current limitations are, the use of remote functions only. The data provided is only one at a time and is small scale. Meaning large scale data sets can't be called by the end user. 
 
 ## Future Updates
+- Update 1.010:
+- Update 1.015:
+- Update 1.020:
+- Update 1.025:
+- Update 1.030:
 
 ## Authors
 
