@@ -1,0 +1,99 @@
+body,html{
+    margin:0;
+    padding:0;
+}
+
+::-webkit-scrollbar{
+    height: 4px;
+    width: 4px;
+    background: gray;
+}
+::-webkit-scrollbar-thumb:horizontal{
+    background: #000;
+    border-radius: 10px;
+}
+
+
+.middle-nav{
+    margin-top:5vh;
+    width:100%;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+li{
+    display:inline;
+    padding:0px 15px 0 15px;
+    text-align: center;
+    text-align: center;
+}
+
+li a{
+  text-decoration: none;
+  color: #19191a;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 0.78em;
+  letter-spacing: .2em;
+}
+
+li a:hover{
+  color:white;
+}
+
+h5{
+    text-transform: uppercase;  
+    font-size: 0.78em;
+    letter-spacing: .2em;
+}
+
+
+.le-table{
+    margin-top:5vh;
+    text-align: center;
+    overflow-x: auto;
+}
+
+
+.hover_target{
+    cursor: pointer;
+    opacity: 0;
+}
+.hover_result{
+    cursor: pointer;
+    opacity: 0.5;
+    transition:all 0.5s ease-in-out;
+}
+
+.hover_target:hover + .hover_result{
+    opacity: 1;
+    stroke-width: 2;
+}
+
+.hover_result:hover{
+    opacity: 1;
+    stroke-width: 2;
+}
+
+
+.canvas-d{
+    -moz-box-shadow: 0 0 3px #ccc;
+    -webkit-box-shadow: 0 0 3px #ccc;
+    box-shadow: 0 0 3px #ccc;
+    margin:2vh 0 2vh 0;
+}
+
+#parent-canvas{
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+}

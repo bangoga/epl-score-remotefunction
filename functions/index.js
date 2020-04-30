@@ -22,19 +22,16 @@ exports.helloWorld = functions.https.onRequest((request, response) => {
 exports.convertToCsv = functions.https.onRequest((request, response) => {
     response.send("ahh shiit");
     
-    var folder = "./Match Day Results/"
-    fs.readdir(folder, (err, files) => {
-      files.forEach(file => {
-        try{
-        readData(file,folder);
-        // Run function.
-        }
-        catch(err){
-          console.log("file was corrupt",file);
-        }
-      });
-    });
+    fetch('https://api.footystats.org/league-matches?key=test85g57&league_id=2012')
+    .then(res => res.json())
+    .then(json => {
 
+      let data = JSON.stringify(json, null, 2);
+      fs.writeFile("2019.json",data, (err) => {
+        if (err) throw err;
+        console.log('Data written to file');
+      })
+    });
 
   });
 
