@@ -1,0 +1,78 @@
+46%
+Ball possession
+54%
+10
+Total shots
+21
+3
+Shots on target
+11
+5
+Shots off target
+7
+2
+Blocked shots
+3
+1
+Corner kicks
+10
+1
+Offsides
+0
+13
+Fouls
+10
+2
+Yellow cards
+2
+1
+Big chances
+7
+1
+Big chances missed
+5
+0
+Counter attacks
+3
+6
+Shots inside box
+13
+4
+Shots outside box
+8
+8
+Goalkeeper saves
+2
+417
+Passes
+480
+330 (79%)
+Acc. passes
+406 (85%)
+17/42 (40%)
+Long balls
+37/56 (66%)
+0/6 (0%)
+Crosses
+4/19 (21%)
+13/23 (57%)
+Dribbles
+19/30 (63%)
+138
+Possession lost
+137
+53
+Duels won
+61
+4
+Aerials won
+6
+26
+Tackles
+24
+8
+Interceptions
+6
+16
+Clearances
+13

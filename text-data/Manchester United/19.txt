@@ -1,0 +1,82 @@
+73%
+Ball possession
+27%
+22
+Total shots
+7
+10
+Shots on target
+2
+7
+Shots off target
+5
+5
+Blocked shots
+0
+5
+Corner kicks
+0
+1
+Offsides
+1
+10
+Fouls
+7
+2
+Yellow cards
+2
+3
+Big chances
+1
+1
+Big chances missed
+1
+1
+Hit woodwork
+0
+1
+Counter attacks
+2
+8
+Shots inside box
+5
+14
+Shots outside box
+2
+1
+Goalkeeper saves
+6
+815
+Passes
+295
+732 (90%)
+Accurate passes
+213 (72%)
+33/47 (70%)
+Long balls
+25/58 (43%)
+4/16 (25%)
+Crosses
+1/5 (20%)
+13/22 (59%)
+Dribbles
+10/17 (59%)
+131
+Possession lost
+121
+49
+Duels won
+56
+14
+Aerials won
+17
+17
+Tackles
+20
+10
+Interceptions
+10
+2
+Clearances
+22
+newcastle
